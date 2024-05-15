@@ -1,0 +1,12 @@
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\bin\Debug\net8.0\Connector_Tier.deps.json
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\bin\Debug\net8.0\Connector_Tier.dll
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\bin\Debug\net8.0\Connector_Tier.pdb
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\Connector_Tier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\Connector_Tier.AssemblyInfoInputs.cache
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\Connector_Tier.AssemblyInfo.cs
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\Connector_Tier.csproj.CoreCompileInputs.cache
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\Connector_Tier.dll
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\refint\Connector_Tier.dll
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\Connector_Tier.pdb
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\ref\Connector_Tier.dll
+C:\Users\Duy\source\repos\Hotel_Management\Connector_Tier\obj\Debug\net8.0\Connector_Tier.csproj.AssemblyReference.cache

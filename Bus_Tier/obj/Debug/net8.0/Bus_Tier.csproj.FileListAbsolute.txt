@@ -1,0 +1,17 @@
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\bin\Debug\net8.0\Bus_Tier.deps.json
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\bin\Debug\net8.0\Bus_Tier.dll
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\bin\Debug\net8.0\Bus_Tier.pdb
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\bin\Debug\net8.0\Connector_Tier.dll
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\bin\Debug\net8.0\Model.dll
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\bin\Debug\net8.0\Connector_Tier.pdb
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\bin\Debug\net8.0\Model.pdb
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\Bus_Tier.csproj.AssemblyReference.cache
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\Bus_Tier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\Bus_Tier.AssemblyInfoInputs.cache
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\Bus_Tier.AssemblyInfo.cs
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\Bus_Tier.csproj.CoreCompileInputs.cache
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\Bus_Tier.csproj.Up2Date
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\Bus_Tier.dll
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\refint\Bus_Tier.dll
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\Bus_Tier.pdb
+C:\Users\Duy\source\repos\Hotel_Management\Bus_Tier\obj\Debug\net8.0\ref\Bus_Tier.dll

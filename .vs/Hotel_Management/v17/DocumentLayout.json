@@ -1,0 +1,674 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|c:\\users\\duy\\source\\repos\\hotel_management\\ui_tier\\uc\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\account_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\account_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{193A4468-92A7-4120-B78E-8F52B0BE88B8}|Connector_Tier\\Connector_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\connector_tier\\connectorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{193A4468-92A7-4120-B78E-8F52B0BE88B8}|Connector_Tier\\Connector_Tier.csproj|solutionrelative:connector_tier\\connectorfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\account_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\account_registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\bus_tier\\bsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|solutionrelative:bus_tier\\bsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\bus_tier\\bsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|solutionrelative:bus_tier\\bsmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\loginform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|solutionrelative:model\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\employee_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\employee_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\bus_tier\\bsroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|solutionrelative:bus_tier\\bsroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\bus_tier\\bsemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|solutionrelative:bus_tier\\bsemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\bus_tier\\bscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E574521-5B26-41F4-90DB-A3C5741A6A3B}|Bus_Tier\\Bus_Tier.csproj|solutionrelative:bus_tier\\bscustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_customerregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\employee_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\employee_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\ui_tier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\ui_tier.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_addroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|solutionrelative:model\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_checkout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|solutionrelative:model\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|solutionrelative:model\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_employee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_checkout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_checkout.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\loginform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\uc\\uc_customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\uc\\uc_customerdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ECBC77C5-6894-419E-B213-7D20E9819FE7}|Model\\Model.csproj|solutionrelative:model\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\dashboard.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{BF10F791-D257-471F-9EF0-4DF141C729B4}|UI_Tier\\UI_Tier.csproj|solutionrelative:ui_tier\\properties\\resources.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\duy\\source\\repos\\hotel_management\\ui_tier\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ui_tier\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|c:\\users\\duy\\source\\repos\\hotel_management\\ui_tier\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ui_tier\\login.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\connector_tier\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:connector_tier\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ui_tier\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Duy\\source\\repos\\Hotel_Management\\ui_tier\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ui_tier\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UC_Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Employee.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:08:23.608Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BSUser.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSUser.cs",
+              "RelativeDocumentMoniker": "Bus_Tier\\BSUser.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSUser.cs",
+              "RelativeToolTip": "Bus_Tier\\BSUser.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAACQAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:19:36.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Account_Registration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Account_Registration.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Account_Registration.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Account_Registration.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\Account_Registration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:08:57.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Account_Registration.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Account_Registration.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Account_Registration.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Account_Registration.cs",
+              "RelativeToolTip": "UI_Tier\\Account_Registration.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAUwCUAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:23:35.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UC_Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Employee.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_Employee.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Employee.cs",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T15:13:02.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConnectorFactory.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Connector_Tier\\ConnectorFactory.cs",
+              "RelativeDocumentMoniker": "Connector_Tier\\ConnectorFactory.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Connector_Tier\\ConnectorFactory.cs",
+              "RelativeToolTip": "Connector_Tier\\ConnectorFactory.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAADwvycAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T08:17:57.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginForm.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\LoginForm.cs",
+              "RelativeToolTip": "UI_Tier\\LoginForm.cs",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwEoAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T20:49:36.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BSManager.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSManager.cs",
+              "RelativeDocumentMoniker": "Bus_Tier\\BSManager.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSManager.cs",
+              "RelativeToolTip": "Bus_Tier\\BSManager.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABEAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:24:56.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Dashboard.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Dashboard.cs",
+              "RelativeToolTip": "UI_Tier\\Dashboard.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:14:18.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\LoginForm.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\LoginForm.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\LoginForm.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\LoginForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:19:20.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Dashboard.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Dashboard.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:26:15.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\User.cs",
+              "RelativeDocumentMoniker": "Model\\User.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\User.cs",
+              "RelativeToolTip": "Model\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:07:52.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "BSEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSEmployee.cs",
+              "RelativeDocumentMoniker": "Bus_Tier\\BSEmployee.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSEmployee.cs",
+              "RelativeToolTip": "Bus_Tier\\BSEmployee.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:31:13.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BSRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSRoom.cs",
+              "RelativeDocumentMoniker": "Bus_Tier\\BSRoom.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSRoom.cs",
+              "RelativeToolTip": "Bus_Tier\\BSRoom.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAiwDgAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:32:58.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "BSCustomer.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSCustomer.cs",
+              "RelativeDocumentMoniker": "Bus_Tier\\BSCustomer.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Bus_Tier\\BSCustomer.cs",
+              "RelativeToolTip": "Bus_Tier\\BSCustomer.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T07:43:37.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Employee_Dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Employee_Dashboard.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Employee_Dashboard.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Employee_Dashboard.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\Employee_Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T21:53:04.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "UC_CustomerRegistration.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_CustomerRegistration.cs",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_CustomerRegistration.cs",
+              "ViewState": "AQIAAFEAAAAAAAAAAAAAAF0AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:36:44.696Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UC_CustomerRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_CustomerRegistration.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_CustomerRegistration.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_CustomerRegistration.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_CustomerRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T14:36:37.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Employee_Dashboard.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Employee_Dashboard.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Employee_Dashboard.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Employee_Dashboard.cs",
+              "RelativeToolTip": "UI_Tier\\Employee_Dashboard.cs",
+              "ViewState": "AQIAAAEBAAAAAAAAAAAiwBEBAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T18:15:09.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UC_AddRoom.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_AddRoom.cs",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_AddRoom.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAAAGsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:49:11.002Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "UI_Tier.csproj",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UI_Tier.csproj",
+              "RelativeDocumentMoniker": "UI_Tier\\UI_Tier.csproj",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UI_Tier.csproj",
+              "RelativeToolTip": "UI_Tier\\UI_Tier.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-13T11:14:31.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UC_AddRoom.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_AddRoom.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_AddRoom.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_AddRoom.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_AddRoom.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T11:16:39.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Room.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\Room.cs",
+              "RelativeDocumentMoniker": "Model\\Room.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\Room.cs",
+              "RelativeToolTip": "Model\\Room.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:33:56.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UC_Checkout.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Checkout.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_Checkout.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Checkout.cs",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_Checkout.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAA2wDIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:09:47.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UC_Checkout.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Checkout.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_Checkout.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Checkout.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_Checkout.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T13:53:20.314Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\Employee.cs",
+              "RelativeDocumentMoniker": "Model\\Employee.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\Employee.cs",
+              "RelativeToolTip": "Model\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:35:53.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\Customer.cs",
+              "RelativeDocumentMoniker": "Model\\Customer.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\Customer.cs",
+              "RelativeToolTip": "Model\\Customer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABMAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:36:17.399Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UC_CustomerDetail.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_CustomerDetail.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_CustomerDetail.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_CustomerDetail.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:27:16.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UC_Employee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Employee.Designer.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_Employee.Designer.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Employee.Designer.cs",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_Employee.Designer.cs",
+              "ViewState": "AQIAAAkBAAAAAAAAAAAAAA4BAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T16:56:52.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UC_Checkout.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Checkout.Designer.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_Checkout.Designer.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_Checkout.Designer.cs",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_Checkout.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-14T02:53:27.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UC_CustomerDetail.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_CustomerDetail.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\UC\\UC_CustomerDetail.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\UC\\UC_CustomerDetail.cs",
+              "RelativeToolTip": "UI_Tier\\UC\\UC_CustomerDetail.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T17:36:49.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "LoginForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\LoginForm.Designer.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\LoginForm.Designer.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\LoginForm.Designer.cs",
+              "RelativeToolTip": "UI_Tier\\LoginForm.Designer.cs",
+              "ViewState": "AQIAAIgBAAAAAAAAAAAAAJcBAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T14:02:47.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Employee.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Employee.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Employee.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Employee.cs [Design]",
+              "RelativeToolTip": "UI_Tier\\Employee.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:21:44.28Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Employee.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Employee.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Employee.cs",
+              "RelativeToolTip": "UI_Tier\\Employee.cs",
+              "ViewState": "AQIAAM8AAAAAAAAAAAAhwOsAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-13T12:15:19.104Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\Manager.cs",
+              "RelativeDocumentMoniker": "Model\\Manager.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Model\\Manager.cs",
+              "RelativeToolTip": "Model\\Manager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:09:10.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Dashboard.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Dashboard.Designer.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Dashboard.Designer.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Dashboard.Designer.cs",
+              "RelativeToolTip": "UI_Tier\\Dashboard.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T08:19:01.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Program.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Program.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Program.cs",
+              "RelativeToolTip": "UI_Tier\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:55:55.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "UI_Tier\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Properties\\Resources.resx",
+              "RelativeToolTip": "UI_Tier\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-11T14:07:51.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Login.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Login.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Login.cs [Design]*",
+              "RelativeToolTip": "UI_Tier\\Login.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:39:36.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Login.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Login.Designer.cs",
+              "RelativeDocumentMoniker": "UI_Tier\\Login.Designer.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\UI_Tier\\Login.Designer.cs*",
+              "RelativeToolTip": "UI_Tier\\Login.Designer.cs*",
+              "ViewState": "AQIAADMBAAAAAAAAAIAwwDkBAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:37:52.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Connector_Tier\\Class1.cs",
+              "RelativeDocumentMoniker": "Connector_Tier\\Class1.cs",
+              "ToolTip": "C:\\Users\\Duy\\source\\repos\\Hotel_Management\\Connector_Tier\\Class1.cs",
+              "RelativeToolTip": "Connector_Tier\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-11T13:33:25.681Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
